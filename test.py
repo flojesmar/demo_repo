@@ -7,6 +7,7 @@
 print("Hello world")
 print("Welcome")
 
+print("new")
 
 # In[ ]:
 
